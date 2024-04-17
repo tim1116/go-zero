@@ -33,7 +33,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.19.0
 	go.uber.org/automaxprocs v1.5.3
 	go.uber.org/goleak v1.2.1
-	golang.org/x/net v0.22.0
+	golang.org/x/net v0.23.0
 	golang.org/x/sys v0.18.0
 	golang.org/x/time v0.5.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20240123012728-ef4313101c80
@@ -43,7 +43,7 @@ require (
 	gopkg.in/h2non/gock.v1 v1.1.2
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.29.3
-	k8s.io/apimachinery v0.29.3
+	k8s.io/apimachinery v0.29.4
 	k8s.io/client-go v0.29.3
 	k8s.io/utils v0.0.0-20230726121419-3b25d923346b
 )
